@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBOOPGNRQ7A66ZY6R623G6IZXGJXHMOSWIEICZ7N6PFY3MNLQER5MKM3"
+"GB3DCIX7TK7KY4E2FKB6OB7LDEZM7Y7V4EWYJKHUIAIJ67RT6DUKTN2J"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="NISMO"
-ORG_URL="https://nismocoin.netlify.app"
+ORG_NAME="CONNect"
+ORG_URL="https://conntoken.org"
 ORG_DESCRIPTION="A Borderless Credit Investment Network."
-ORG_TWITTER="@nismocoin"
-ORG_LOGO="https://i.ibb.co/2FgdVQ4/black-logo.png"
-ORG_OFFICIAL_EMAIL="support@nismocoin.org"
+ORG_TWITTER="@connectoken5"
+ORG_LOGO="https://i.ibb.co/gPQkn8G/Connect-4-png.png"
+ORG_OFFICIAL_EMAIL="support@connect.org"
 
 
 [[CURRENCIES]]
-code="NISMO"
-issuer="GBOOPGNRQ7A66ZY6R623G6IZXGJXHMOSWIEICZ7N6PFY3MNLQER5MKM3"
+code="CONN"
+issuer="GB3DCIX7TK7KY4E2FKB6OB7LDEZM7Y7V4EWYJKHUIAIJ67RT6DUKTN2J"
 anchor_asset="false"
-name="NISMO"
-desc="NISMO helps to incentivize applications scale by enabling faster and cheaper transactions for their users. We make it easy for developers to build on our platform with support for many different programming languages and grants to incentivize development. Initially, we are also deploying our own applications as a foundation for the ecosystem."
+name="CONNect"
+desc="CONNECT is one of few companies and organizations that are trying to bring connectivity to underserved regions of the world."
 conditions=""
-image="https://i.ibb.co/2FgdVQ4/black-logo.png"
-fixed_number=100001
-max_number=1000001
+image="https://i.ibb.co/gPQkn8G/Connect-4-png.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#NISMO was issued using the open and inclusive Stellar blockchain network.
+#CONNECT was issued using the open and inclusive Stellar blockchain network.
